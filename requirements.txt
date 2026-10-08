@@ -1,0 +1,6 @@
+coqui-tts
+pydub
+ollama
+pydantic
+torch
+torchaudio

@@ -1,0 +1,4 @@
+.venv/
+final_story_narration.wav
+reference_voice_clean.wav
+__pycache__/*
